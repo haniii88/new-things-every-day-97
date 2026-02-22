@@ -1,4 +1,4 @@
-/* New Things Every Day — Da 97 */
+/* New Things Every Day — Day  97 */
 /* Generates a daily execution log with a dynamic activity value */
 
 function dailyLog97() {
